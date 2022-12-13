@@ -269,11 +269,12 @@ nav .list li:hover::before{
         gap: 6px;
     }
     .res-img{
-        background-image: url(/img/res-food-two.PNG);
+        background-image: url(img/res-food-two.PNG);
         background-size: 300px;
         height: 180px;
         background-repeat: no-repeat;
-        margin-top: 10px;
+        margin-top: 35px;
+        box-shadow: 5px 9px 3px #ddd;
     }
     .res-img{
         grid-column: 2/3;
